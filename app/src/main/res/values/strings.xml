@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MOBOPS APP-1</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="add">Add</string>
+    <string name="show_all_names">Show all names</string>
+    <string name="nothing_to_save">Nothing to save</string>
+    <string name="nothing_to_add">Nothing to add</string>
+    <string name="name_added">Name added</string>
+    <string name="nothing_to_show">No names to show!</string>
+    <string name="names">Names</string>
+</resources>
